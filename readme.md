@@ -11,6 +11,32 @@ The `stega-eof` interface provides methods for inserting and extracting secret f
 [![JitPack](https://jitpack.io/v/hudzzz01/stega-eof.svg)](https://jitpack.io/#hudzzz01/stega-eof)
 
 ```
+
+  <repositories>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>
+
+    <dependencies>
+
+
+        <dependency>
+            <groupId>com.github.hudzzz01</groupId>
+            <artifactId>stega-eof</artifactId>
+            <version>-SNAPSHOT</version>
+        </dependency>
+
+
+    </dependencies>
+
+
+```
+
+Or Use Manual 
+
+```
   <dependencies>
         <dependency>
             <groupId>com.kentung</groupId>
