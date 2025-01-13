@@ -8,7 +8,8 @@ Its library steganografy with EOF algoritm. 🚀
 The `stega-eof` interface provides methods for inserting and extracting secret files within receptacle files, along with customizable output directories for generated files.
 
 ## Maven Dependency 
-(https://jitpack.io/v/hudzzz01/stega-eof.svg)](https://jitpack.io/#hudzzz01/stega-eof)
+[![JitPack](https://jitpack.io/v/hudzzz01/stega-eof.svg)](https://jitpack.io/#hudzzz01/stega-eof)
+
 ```
   <dependencies>
         <dependency>
