@@ -7,6 +7,19 @@ Its library steganografy with EOF algoritm. 🚀
 
 The `stega-eof` interface provides methods for inserting and extracting secret files within receptacle files, along with customizable output directories for generated files.
 
+## Maven Dependency 
+```
+  <dependencies>
+        <dependency>
+            <groupId>com.kentung</groupId>
+            <artifactId>stega-eof</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
+```
+
+
 ## Methods
 
 ### 1. `insertAsecretFileToReceptacleFile`
